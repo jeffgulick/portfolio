@@ -131,6 +131,12 @@ input, select, textarea {
 		top: 0.5em;
 		font-size: 0.8em;
 	}
+	
+	.container-about  {
+		list-style: none;
+		display: flex;
+		justify-content: center;
+	}
 
 	sup {
 		position: relative;
