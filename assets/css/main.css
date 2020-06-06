@@ -109,6 +109,21 @@ input, select, textarea {
 		text-decoration: underline;
 	}
 
+	#box-top-skills {
+		margin-top: 8pt;
+	}
+
+	#box-top-main {
+		margin-top: 8pt;
+	}
+
+	#social-resume {
+		display: flex;
+		justify-content: center;
+	}
+	#footer-social-resume {
+		text-align: center;
+	}
 		a:hover {
 			color: #43bff0 !important;
 		}
