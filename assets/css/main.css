@@ -157,6 +157,13 @@ input, select, textarea {
 		background-color: #F4F4F4;
 	}
 
+	.skills {
+		list-style-type: none;
+		text-align: left;
+		display: flex;
+		justify-content: center;
+	}
+
 	sup {
 		position: relative;
 		top: -0.5em;
